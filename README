@@ -1,1 +1,19 @@
+Hello there
+I have made this project over a course of 40-50 days using my knowledge in C++. I had to learn about basics of OpenCV and windows APIs to compile everything. 
+I used Microsoft Visual Studio as the IDE. My code requires a webcam to read the video feed which is processed frame by frame for the number of fingers open. 
+Here is the breakup of the gestures.
+1.) One finger open: Volume increases
+2.) Two fingers open: Volume decreases
+3.) Three fingers open: Screenshot taken and saved to the destination folder
+4.) Five fingers open for 1 sec then closed fist: System Shuts Down after 10 seconds.
+5.) Five fingers open for 1 sec then one finger open: System Restarts after 10 seconds.
+6.) Five fingers open for 1 sec then two fingers open: System sleeps after 10 seconds.
+
+I have also included a settings option in which you can,
+1.) Change the destination folder of screenshots.
+2.) Change the maximum limit of screenshots saved at a time in the folder.
+3.) Calibrate the software according to your lighting.
+
+Feel free to hit me up to know more details about the project!
+Cheers!
 
