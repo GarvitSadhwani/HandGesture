@@ -1,9 +1,9 @@
 C:/Users/garvi/OneDrive/Desktop/gestures/
-5
+0
 10
-1
-107
-3
-161
-4
-195
+0
+255
+0
+255
+0
+255
